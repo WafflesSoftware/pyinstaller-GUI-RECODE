@@ -20,4 +20,4 @@ Images of pyinstaller-GUI coming soon!
 
 # How to use
 1. Check if you have all modules installed that you need. You can look in the "requirements.txt" file for that / install the modules directly from it.
-2. Run the "main.py" file, after that everything will open. (Make sure you have all files in the same directory.)
+2. Run the "main.py" file, after that everything will open. (Make sure you have all files in the same directory and didn't write anything in the "system" file.)
