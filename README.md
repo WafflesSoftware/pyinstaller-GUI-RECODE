@@ -1,4 +1,5 @@
 # pyinstaller-GUI-RECODE
+# About
 This is a GUI for the python module "pyinstaller" that helps you to use the module without commands! (Complete recode of the previous version, it isn't visible on my profile anymore though.)
 
 # Images
