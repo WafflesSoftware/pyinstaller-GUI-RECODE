@@ -3,7 +3,7 @@
 This is a GUI for the python module "pyinstaller" that helps you to use the module without commands! (Complete recode of the previous version, it isn't visible on my profile anymore though.)
 
 # Images
-![image](img/pyinstaller_gui.png)
+![image](img/pyinstaller-gui_finished_image.png)
 
 # Features
 * Finished
