@@ -1,5 +1,10 @@
 # pyinstaller-GUI-RECODE
 > Developed by WafflesSoftware
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/WafflesSoftware/pyinstaller-GUI-RECODE/total?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
 # About
 This is a GUI for the python module "pyinstaller" that helps you to use the module without commands! (Complete recode of the previous version, it isn't visible on my profile anymore though.)
 
