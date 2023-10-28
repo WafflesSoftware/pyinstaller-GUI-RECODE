@@ -1,5 +1,5 @@
 # pyinstaller-GUI-RECODE
-> Developed by WafflesSoftware
+> Developed by [WafflesSoftware](https://github.com/WafflesSoftware)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/WafflesSoftware/pyinstaller-GUI-RECODE?style=for-the-badge)
