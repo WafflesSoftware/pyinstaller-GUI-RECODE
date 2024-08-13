@@ -22,7 +22,6 @@ This is a GUI for the python module "pyinstaller" that helps you to use the modu
 | -------- | -------- |
 | Add an icon to the EXE | Work in progress |
 | Parameters | Finished / Work in progress |
-| Linux / macOS support | Planning |
 | Custom export path | Work in progress |
 | Custom file name | Finished |
 
