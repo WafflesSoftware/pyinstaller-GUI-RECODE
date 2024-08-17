@@ -10,6 +10,9 @@
 # About
 This is a GUI for the python module "pyinstaller" that helps you to use the module without commands! (Complete recode of the previous version, it isn't visible on my profile anymore though.)
 
+# OS Support
+It only supports Windows right now, but I may add other OS support.
+
 # Images
 ![image](img/pyinstaller-gui_finished_image.png)
 
